@@ -1,6 +1,6 @@
 {
- "version": 3,
- "actualizado": "2026-10-05T01:25:50.040Z",
+ "version": 4,
+ "actualizado": "2026-10-05T16:46:43.617Z",
  "ajustes": {
   "negocio": "Mi Catálogo",
   "whatsapp": "573000000000",
@@ -19,32 +19,18 @@
  ],
  "productos": [
   {
-   "id": "pmuukislheaga",
-   "nombre": "maquina park",
-   "ref": "Her-10013",
-   "categoria": "Herramientas",
-   "descripcion": "maquina para realizar cortes perfectos",
+   "id": "pmuvhf9w6ymnu",
+   "nombre": "Bombilla led",
+   "ref": "B-001",
+   "categoria": "Electricidad",
+   "descripcion": "Bombillo led luz calida",
    "etiquetas": [
-    "cortador"
+    "bombillo"
    ],
-   "imagen": "",
-   "video": "",
+   "imagen": "media/img/bombilla-led-muvhew3ou8oc.webp",
+   "video": "media/video/bombilla-led-muvheznxof4z.mp4",
    "visible": true,
-   "destacado": false
-  },
-  {
-   "id": "pmuu7kxf75m4n",
-   "nombre": "Barra Loca",
-   "ref": "Her-10012",
-   "categoria": "",
-   "descripcion": "barra para hacer ejercicios en diferentes lugares",
-   "etiquetas": [
-    "barra"
-   ],
-   "imagen": "media/img/barra-loca-muu7keo33pfw.webp",
-   "video": "",
-   "visible": true,
-   "destacado": false
+   "destacado": true
   },
   {
    "id": "demo-001",
