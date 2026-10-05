@@ -1,6 +1,6 @@
 {
- "version": 5,
- "actualizado": "2026-10-05T16:48:23.325Z",
+ "version": 6,
+ "actualizado": "2026-10-05T16:53:18.609Z",
  "ajustes": {
   "negocio": "Mi Catálogo personalizado",
   "whatsapp": "573000000000",
@@ -19,20 +19,6 @@
   "Categoria 1"
  ],
  "productos": [
-  {
-   "id": "pmuvhf9w6ymnu",
-   "nombre": "Bombilla led",
-   "ref": "B-001",
-   "categoria": "Electricidad",
-   "descripcion": "Bombillo led luz calida",
-   "etiquetas": [
-    "bombillo"
-   ],
-   "imagen": "media/img/bombilla-led-muvhew3ou8oc.webp",
-   "video": "media/video/bombilla-led-muvheznxof4z.mp4",
-   "visible": true,
-   "destacado": true
-  },
   {
    "id": "demo-001",
    "ref": "HER-1001",
