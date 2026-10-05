@@ -7,9 +7,9 @@ window.CONFIG = {
   // La contraseña NO se escribe aquí: solo su huella cifrada.
   // Para cambiar usuario/contraseña abre  generar-clave.html  en el sitio,
   // escribe tus datos y pega aquí las 3 líneas que te entrega.
-  ADMIN_USUARIO: "administrador",
-  ADMIN_SAL: '881897b9816eb2cd658f2eb0a4f8fe4b',
-  ADMIN_CLAVE_HASH: 'be5aeb5a78dc7dabac3f4aa5bc77fed9d6e04ab884ea4dad2a128b80505f0dfe',
+ ADMIN_USUARIO: "administrador",
+  ADMIN_SAL: '27244ff7df72af7258889f533a296065',
+  ADMIN_CLAVE_HASH: 'ac80e434c9d2fbd37df5773fe7d46c441addcc59e589fbeb92e3b69cf057927b', 
 
   // Minutos que dura la sesión del administrador antes de pedir clave otra vez.
   SESION_MINUTOS: 120,
