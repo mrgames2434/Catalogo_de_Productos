@@ -1,11 +1,11 @@
 {
- "version": 4,
- "actualizado": "2026-10-05T16:46:43.617Z",
+ "version": 5,
+ "actualizado": "2026-10-05T16:48:23.325Z",
  "ajustes": {
-  "negocio": "Mi Catálogo",
+  "negocio": "Mi Catálogo personalizado",
   "whatsapp": "573000000000",
-  "eslogan": "Pide tu cotización por WhatsApp",
-  "saludo": "Hola, quiero cotizar los siguientes productos:"
+  "eslogan": "Pide tu cotización por WhatsApp ahora!",
+  "saludo": "Hola, quiero cotizar los siguientes productos del catalogo:"
  },
  "categorias": [
   "Electricidad",
@@ -15,7 +15,8 @@
   "Pinturas",
   "Jardín",
   "Seguridad",
-  "Hogar"
+  "Hogar",
+  "Categoria 1"
  ],
  "productos": [
   {
